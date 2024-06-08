@@ -17,3 +17,5 @@ If my chosen activity is DSA, then by choosing option 1, I can open chatGPT (bra
 2. All the DSA related Applications and web pages are opened.
 ![ro](https://github.com/AkashKamatCreates/BashAutomation/assets/100783004/52671ea3-8f5f-4920-926f-de601279db6a)
 
+## Tech Stack: 
+BASH (Bourne-again SHell)
